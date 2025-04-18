@@ -3,4 +3,3 @@ requests
 beautifulsoup4
 ipython
 openpyxl
-html5lib
